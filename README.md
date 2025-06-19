@@ -26,8 +26,8 @@ This project is an API server for a Slack-integrated project manager assistant b
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ai-project-manager-assistant.git
-   cd ai-project-manager-assistant
+   git clone https://github.com/MehveshShabbir/service-endpoint.git
+   cd service-endpoint
    ```
 
 2. **Install Dependencies**
@@ -58,7 +58,7 @@ This project is an API server for a Slack-integrated project manager assistant b
 6. **Set Up Your Slack App**
    - Create a new Slack app at [https://api.slack.com/apps](https://api.slack.com/apps).
    - Add a bot user and install the app to your workspace.
-   - Set up slash commands (e.g., `/addtask`, `/tasks`, `/deletetask`, `/dailysummary`) in the Slack app settings, pointing each to your ngrok URL plus the endpoint.
+   - Set up slash commands (e.g., `/addtask`, `/tasks`, `/deletetask`) in the Slack app settings, pointing each to your ngrok URL plus the endpoint.
    - Add your bot to the desired Slack channels using `/invite @your-bot-name`.
 
 ---
