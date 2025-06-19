@@ -1,6 +1,6 @@
 # AI Project Manager Assistant
 
-This project is an API server for a Slack-integrated project manager assistant bot, originally built for the [lablabai AI hackathon](https://lablab.ai/event/nextgen-gpt-ai-hackathon). It enables teams to manage daily standups, tasks, and meeting summaries directly from Slack.
+This project is an API server for a Slack-integrated project manager assistant bot. It enables teams to manage daily standups, tasks, and meeting summaries directly from Slack.
 
 ---
 
