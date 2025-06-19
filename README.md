@@ -19,53 +19,7 @@ This project is an API server for a Slack-integrated project manager assistant b
 
 **Slack Command Example:**
 
-```
-/addtask Prepare project documentation
-```
-
-_Bot responds in Slack:_
-
-```
-Task Added:
-Prepare project documentation
-```
-
-**Task List Example:**
-
-```
-/tasks
-```
-
-_Bot responds:_
-
-```
-Tasks:
-1. Prepare project documentation
-2. Review pull requests
-```
-
-**Delete Task Example:**
-
-```
-/deletetask 2
-```
-
-_Bot responds:_
-
-```
-Removed task:
-Review pull requests
-```
-
-**Daily Summary Example:**
-
-```
-/dailysummary
-```
-
-_Bot responds with the daily meeting summary based on your data._
-
----
+![Bot Screenshot](Slack_Channel.png)
 
 ## Setup Guide
 
